@@ -1,0 +1,248 @@
+
+@import url(Reset.css);
+@import url(Nav.css);
+@import url(Footer.css);
+@import url(Cards.css);
+@import url(form.css);
+
+/*Overall page*/
+
+html {
+    font-size: 16px;
+}
+
+body {
+    background-color: var(--background);
+    height: 100%;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+    font-size: 100%;
+}
+
+main {
+    padding-top: 5rem ;
+}
+
+.wrapper-main{
+    width: 80%;
+    margin: 0 auto;
+}
+
+/*Colors*/
+
+:root {
+    --main-blue: #2b2b2b;
+    --card: #ffffff;
+    --secondary-purple:#D688E9;
+    --secondary-purple-h: #c77bda;
+    --secondary-blue: #d231c0;
+    --secondary-blue-h: #27c0e2;
+    --background-purple: #F5E8F8;
+    --background: #f5e1e3;
+    --background-blue-2: #F0FBFF;
+    --dark-purple: #9C3FB3;
+    --light-purple: #E6B8F1;
+    --black: #030303;
+}
+
+
+/*Typography*/
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: 'poppins' , Verdana, Geneva, Tahoma, sans-serif;
+    color: var(--main-blue);
+    font-weight: 00;
+    
+}
+
+h1 {
+    font-size: 36px;
+    line-height: 1.2;
+    font-weight: 700;
+    
+}
+
+h2 {
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 1.2;
+    margin-bottom: 8px;
+    
+}
+
+h3 {
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 1.2;
+}
+
+h4 {
+    font-size: 20px;
+    line-height: 1.2;
+    font-weight: 700;
+}
+
+h5 {
+    font-size: 18px;
+    line-height: 1.2;
+    font-weight: 700;
+}
+
+h6 {
+    font-size: 16px;
+    line-height: 1.2;
+    font-weight: 700;
+}
+
+p {
+    font-family: 'roboto', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.rem;
+    letter-spacing: 0.5px;
+    line-height: 1.5;
+}
+
+.p-bold {
+    font-weight: 700;
+}
+
+.p-space {
+    padding-bottom: 1.5rem ;
+}
+
+.nav-highlight-page {
+   border-bottom: 2.5px solid var(--dark-purple)
+}
+
+.link-contactus-h {
+    border-bottom: 2.5px solid var(--dark-purple)
+}
+
+summary {
+    font-family: 'poppins' , Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 1.2;
+    margin-bottom: 8px;
+    color: var(--main-blue);
+}
+
+/*Image*/
+
+img {
+    width: 100%; 
+    height: auto; 
+    display: block; 
+    object-fit: cover;
+}
+
+/* Buttons*/
+
+.button-main{
+    transition-property: background-color;
+    transition-duration: 0.5s;
+    background-color: var(--secondary-purple);
+    color: var(--black);
+    padding: 16px;
+    border: none;
+    border-radius: 2px;
+    font-family: 'roboto', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    margin-right: 1rem;  
+}
+
+
+.button-main:hover {
+    background-color: var(--secondary-purple-h);
+}
+
+.button-secondary{
+    transition-property: background-color;
+    transition-duration: 0.5s;
+    background-color: var(--secondary-blue);
+    color: black;
+    padding: 16px;
+    border: none;
+    border-radius: 2px;
+    font-family: 'roboto', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    margin-right: 1rem;  
+}
+
+.button-secondary:hover{
+    background-color: var(--secondary-blue-h);
+}
+
+.button-main-wide {
+    transition-property: background-color;
+    transition-duration: 0.5s;
+    background-color: var(--secondary-purple);
+    color: var(--black);
+    padding: 14px 16px;
+    border: none;
+    border-radius: 2px;
+    font-family: 'roboto', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    width: 360px;
+    margin-top: 1rem;
+    text-align: center;
+}
+
+.button-main-wide:hover {
+    background-color: var(--secondary-purple-h);
+}
+
+.button-card {
+    transition-property: background-color;
+    transition-duration: 0.5s;
+    display: inline-block;
+    background-color: var(--secondary-purple);
+    color: var(--black);
+    padding: 14px 16px;
+    border: none;
+    border-radius: 2px;
+    font-family: 'roboto', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    margin-right: 1rem; 
+}
+
+.button-card:hover {
+    background-color: var(--secondary-purple-h);
+}
+
+.fa-solid {
+    color: var(--main-blue);
+}
+
+/*Table*/
+
+table {
+    font-family: 'roboto', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: left;
+    border-collapse: collapse;
+}
+
+  
+  tr {
+    border-bottom: 1px solid var(--light-purple);
+  }
+
+  tr:last-child {
+    border-bottom: 0px;
+  }
+  
+  td {
+    padding: 8px;
+  }
+
+  .p-bold {
+    padding: 0.5rem 2rem 0.5rem 0;
+  }
+
+  .p-bold-2 {
+    padding: 0.5rem 0rem 0.5rem 2rem;
+    font-weight: 700;
+  }
+

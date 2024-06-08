@@ -1,0 +1,64 @@
+
+/* Card Building blocks */
+
+.card-container {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+
+.vertical-card {
+    transition-property: box-shadow;
+    transition-duration: 0s;
+    width: 300px;
+    background-color: var(--card);
+    border-radius: 4px;
+    overflow: hidden;
+    color: var(--black);
+}
+
+.card-purple {
+    background-color: #F5E8F8;
+}
+
+.vertical-card img {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+}
+
+/*Card Animation*/
+
+.vertical-card:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1)
+}
+
+
+/*Card details*/
+
+.v-card-content {
+    padding: 32px 24px;
+}
+
+.card-date {
+    color: #7D478A;
+    font-weight: 400;
+    padding: 0;
+    margin-bottom: 1rem;
+}
+
+.card-title {
+    color: var(--black);
+    font-weight: 400;
+    margin-top: 0;
+}
+
+.v-card-content p {
+    color: rgb(79, 104, 107);
+    padding-top: 0.5rem;
+}
+
+.button-card {
+    margin-top: 2rem;
+}

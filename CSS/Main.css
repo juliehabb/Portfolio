@@ -35,17 +35,15 @@ main {
 
 :root {
     --main-blue: #2b2b2b;
-    --card: #ffffff;
+    --card: #ffffff39;
     --secondary-purple:#D688E9;
     --secondary-purple-h: #c77bda;
     --secondary-blue: #d231c0;
     --secondary-blue-h: #27c0e2;
-    --background-purple: #F5E8F8;
-    --background: #f5e1e3;
-    --background-blue-2: #F0FBFF;
     --dark-purple: #9C3FB3;
     --light-purple: #E6B8F1;
     --black: #030303;
+    --gradient: linear-gradient(50deg, #F5BED3, #FCE1B0);
 }
 
 
@@ -62,7 +60,6 @@ h1 {
     font-size: 36px;
     line-height: 1.2;
     font-weight: 700;
-    
 }
 
 h2 {

@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg data-bbox="0.719 1 2116.281 827" viewBox="0 0 2117 828" height="828" width="2117" xmlns="http://www.w3.org/2000/svg" data-type="ugc">
+    <g transform="translate(-2178 -232)">
+        <g transform="translate(366 -1495)">
+            <g stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke="#3b3b3b">
+                <path stroke="none" fill="none" d="M2010 1781v148h-197v-148h197z"/>
+                <path fill="none" d="M2009 1782v146h-195v-146h195z"/>
+            </g>
+            <text font-weight="700" font-family="Helvetica-Bold, Helvetica" font-size="24" fill="#3b3b3b" transform="translate(1910 1864)">
+                <tspan y="0" x="-48.018">Courses</tspan>
+            </text>
+        </g>
+        <g transform="translate(366 -1182)">
+            <g stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke="#3b3b3b">
+                <path stroke="none" fill="none" d="M2010 1781v148h-197v-148h197z"/>
+                <path fill="none" d="M2009 1782v146h-195v-146h195z"/>
+            </g>
+            <text font-weight="700" font-family="Helvetica-Bold, Helvetica" font-size="24" fill="#3b3b3b" transform="translate(1912 1864)">
+                <tspan y="0" x="-48.018">Courses</tspan>
+            </text>
+        </g>
+        <g transform="translate(366 -869)">
+            <g stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke="#3b3b3b">
+                <path stroke="none" fill="none" d="M2010 1781v148h-197v-148h197z"/>
+                <path fill="none" d="M2009 1782v146h-195v-146h195z"/>
+            </g>
+            <text font-weight="700" font-family="Helvetica-Bold, Helvetica" font-size="24" fill="#3b3b3b" transform="translate(1912 1864)">
+                <tspan y="0" x="-48.018">Courses</tspan>
+            </text>
+        </g>
+        <g transform="translate(614 -1495)">
+            <g stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke="#3b3b3b">
+                <path stroke="none" fill="none" d="M2010 1781v148h-197v-148h197z"/>
+                <path fill="none" d="M2009 1782v146h-195v-146h195z"/>
+            </g>
+            <text font-weight="700" font-family="Helvetica-Bold, Helvetica" font-size="24" fill="#3b3b3b" transform="translate(1912 1864)">
+                <tspan y="0" x="-36.674">Habits</tspan>
+            </text>
+        </g>
+        <g transform="translate(614 -1182)">
+            <g stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke="#3b3b3b">
+                <path stroke="none" fill="none" d="M2010 1781v148h-197v-148h197z"/>
+                <path fill="none" d="M2009 1782v146h-195v-146h195z"/>
+            </g>
+            <text font-weight="700" font-family="Helvetica-Bold, Helvetica" font-size="24" fill="#3b3b3b" transform="translate(1912 1864)">
+                <tspan y="0" x="-51.352">Course 1</tspan>
+            </text>
+        </g>
+        <g transform="translate(614 -869)">
+            <g stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke="#3b3b3b">
+                <path stroke="none" fill="none" d="M2010 1781v148h-197v-148h197z"/>
+                <path fill="none" d="M2009 1782v146h-195v-146h195z"/>
+            </g>
+            <text font-weight="700" font-family="Helvetica-Bold, Helvetica" font-size="24" fill="#3b3b3b" transform="translate(1912 1849)">
+                <tspan y="0" x="-36.234">Water </tspan><tspan y="29" x="-52.646">Footprint</tspan>
+            </text>
+        </g>
+        <g transform="translate(862 -1495)">
+            <g stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke="#3b3b3b">
+                <path stroke="none" fill="none" d="M2010 1781v148h-197v-148h197z"/>
+                <path fill="none" d="M2009 1782v146h-195v-146h195z"/>
+            </g>
+            <text font-weight="700" font-family="Helvetica-Bold, Helvetica" font-size="24" fill="#3b3b3b" transform="translate(1912 1849)">
+                <tspan y="0" x="-53.332">Add new </tspan><tspan y="29" x="-28.664">habit</tspan>
+            </text>
+        </g>
+        <g transform="translate(862 -1182)">
+            <g stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke="#3b3b3b">
+                <path stroke="none" fill="none" d="M2010 1781v148h-197v-148h197z"/>
+                <path fill="none" d="M2009 1782v146h-195v-146h195z"/>
+            </g>
+            <text font-weight="700" font-family="Helvetica-Bold, Helvetica" font-size="24" fill="#3b3b3b" transform="translate(1912 1835)">
+                <tspan y="0" x="-44.004">Change</tspan><tspan y="29" x="-50.654">toggle to</tspan><tspan y="58" x="-50.725">&quot;Simple&quot;</tspan>
+            </text>
+        </g>
+        <g transform="translate(862 -869)">
+            <g stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke="#3b3b3b">
+                <path stroke="none" fill="none" d="M2010 1781v148h-197v-148h197z"/>
+                <path fill="none" d="M2009 1782v146h-195v-146h195z"/>
+            </g>
+            <text font-weight="700" font-family="Helvetica-Bold, Helvetica" font-size="24" fill="#3b3b3b" transform="translate(1912 1849)">
+                <tspan y="0" x="-30">Redo</tspan><tspan y="29" x="-70.02">Questonaire</tspan>
+            </text>
+        </g>
+        <g transform="translate(1105 -1495)">
+            <g stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke="#3b3b3b">
+                <path stroke="none" fill="none" d="M2010 1781v148h-197v-148h197z"/>
+                <path fill="none" d="M2009 1782v146h-195v-146h195z"/>
+            </g>
+            <text font-weight="700" font-family="Helvetica-Bold, Helvetica" font-size="24" fill="#3b3b3b" transform="translate(1912 1864)">
+                <tspan y="0" x="-60.018">Enter Data</tspan>
+            </text>
+        </g>
+        <g transform="translate(1105 -1182)">
+            <g stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke="#3b3b3b">
+                <path stroke="none" fill="none" d="M2010 1781v148h-197v-148h197z"/>
+                <path fill="none" d="M2009 1782v146h-195v-146h195z"/>
+            </g>
+            <text font-weight="700" font-family="Helvetica-Bold, Helvetica" font-size="24" fill="#3b3b3b" transform="translate(1912 1864)">
+                <tspan y="0" x="-55.348">Chapter 1</tspan>
+            </text>
+        </g>
+        <g transform="translate(1105 -869)">
+            <g stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke="#3b3b3b">
+                <path stroke="none" fill="none" d="M2010 1781v148h-197v-148h197z"/>
+                <path fill="none" d="M2009 1782v146h-195v-146h195z"/>
+            </g>
+            <text font-weight="700" font-family="Helvetica-Bold, Helvetica" font-size="24" fill="#3b3b3b" transform="translate(1912 1864)">
+                <tspan y="0" x="-58.682">Enter data</tspan>
+            </text>
+        </g>
+        <g transform="translate(1364 -1495)">
+            <g stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke="#3b3b3b">
+                <path stroke="none" fill="none" d="M2010 1781v148h-197v-148h197z"/>
+                <path fill="none" d="M2009 1782v146h-195v-146h195z"/>
+            </g>
+            <text font-weight="700" font-family="Helvetica-Bold, Helvetica" font-size="24" fill="#3b3b3b" transform="translate(1912 1864)">
+                <tspan y="0" x="-74.068">Click &quot;Enter&quot;</tspan>
+            </text>
+        </g>
+        <g transform="translate(1353 -1182)">
+            <g stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke="#3b3b3b">
+                <path stroke="none" fill="none" d="M2010 1781v148h-197v-148h197z"/>
+                <path fill="none" d="M2009 1782v146h-195v-146h195z"/>
+            </g>
+            <text font-weight="700" font-family="Helvetica-Bold, Helvetica" font-size="24" fill="#3b3b3b" transform="translate(1912 1864)">
+                <tspan y="0" x="-58.682">Enter data</tspan>
+            </text>
+        </g>
+        <g transform="translate(1348 -869)">
+            <g stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke="#3b3b3b">
+                <path stroke="none" fill="none" d="M2010 1781v148h-197v-148h197z"/>
+                <path fill="none" d="M2009 1782v146h-195v-146h195z"/>
+            </g>
+            <text font-weight="700" font-family="Helvetica-Bold, Helvetica" font-size="24" fill="#3b3b3b" transform="translate(1912 1864)">
+                <tspan y="0" x="-78.727">Click &quot;Finish&quot;</tspan>
+            </text>
+        </g>
+        <g transform="translate(1586 -1182)">
+            <g stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke="#3b3b3b">
+                <path stroke="none" fill="none" d="M2010 1781v148h-197v-148h197z"/>
+                <path fill="none" d="M2009 1782v146h-195v-146h195z"/>
+            </g>
+            <text font-weight="700" font-family="Helvetica-Bold, Helvetica" font-size="24" fill="#3b3b3b" transform="translate(1912 1849)">
+                <tspan y="0" x="-63.715">Click &quot;Next</tspan><tspan y="29" x="-49.336">Chapter!</tspan>
+            </text>
+        </g>
+        <g transform="translate(1581 -869)">
+            <g stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke="#3b3b3b">
+                <path stroke="none" fill="none" d="M2010 1781v148h-197v-148h197z"/>
+                <path fill="none" d="M2009 1782v146h-195v-146h195z"/>
+            </g>
+            <text font-weight="700" font-family="Helvetica-Bold, Helvetica" font-size="24" fill="#3b3b3b" transform="translate(1912 1849)">
+                <tspan y="0" x="-53.807">View new</tspan><tspan y="29" x="-62.684">calculation</tspan>
+            </text>
+        </g>
+        <g transform="translate(1819 -1182)">
+            <g stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke="#3b3b3b">
+                <path stroke="none" fill="none" d="M2010 1781v148h-197v-148h197z"/>
+                <path fill="none" d="M2009 1782v146h-195v-146h195z"/>
+            </g>
+            <text font-weight="700" font-family="Helvetica-Bold, Helvetica" font-size="24" fill="#3b3b3b" transform="translate(1912 1864)">
+                <tspan y="0" x="-55.348">Chapter 2</tspan>
+            </text>
+        </g>
+        <g transform="translate(2052 -1182)">
+            <g stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke="#3b3b3b">
+                <path stroke="none" fill="none" d="M2010 1781v148h-197v-148h197z"/>
+                <path fill="none" d="M2009 1782v146h-195v-146h195z"/>
+            </g>
+            <text font-weight="700" font-family="Helvetica-Bold, Helvetica" font-size="24" fill="#3b3b3b" transform="translate(1912 1864)">
+                <tspan y="0" x="-58.682">Enter data</tspan>
+            </text>
+        </g>
+        <g transform="translate(2285 -1182)">
+            <g stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke="#3b3b3b">
+                <path stroke="none" fill="none" d="M2010 1781v148h-197v-148h197z"/>
+                <path fill="none" d="M2009 1782v146h-195v-146h195z"/>
+            </g>
+            <text font-weight="700" font-family="Helvetica-Bold, Helvetica" font-size="24" fill="#3b3b3b" transform="translate(1912 1864)">
+                <tspan y="0" x="-78.727">Click &quot;Finish&quot;</tspan>
+            </text>
+        </g>
+        <g>
+            <path stroke-width="2" stroke="#3b3b3b" fill="none" d="M2376 360h50"/>
+            <g>
+                <path d="M2413.5 366.902v-13.804l12.468 6.902-12.468 6.902z" fill="#3b3b3b"/>
+                <path d="M2424.935 360L2414 353.947v12.106l10.935-6.053m2.065 0l-14 7.75v-15.5l14 7.75z" fill="#3b3b3b"/>
+            </g>
+        </g>
+        <g>
+            <path stroke-width="2" stroke="#3b3b3b" fill="none" d="M2376 673h50"/>
+            <g>
+                <path d="M2413.5 679.902v-13.804l12.468 6.902-12.468 6.902z" fill="#3b3b3b"/>
+                <path d="M2424.935 673L2414 666.947v12.106l10.935-6.053m2.065 0l-14 7.75v-15.5l14 7.75z" fill="#3b3b3b"/>
+            </g>
+        </g>
+        <g>
+            <path stroke-width="2" stroke="#3b3b3b" fill="none" d="M2376 986h50"/>
+            <g>
+                <path d="M2413.5 992.902v-13.804l12.468 6.902-12.468 6.902z" fill="#3b3b3b"/>
+                <path d="M2424.935 986L2414 979.947v12.106l10.935-6.053m2.065 0l-14 7.75v-15.5l14 7.75z" fill="#3b3b3b"/>
+            </g>
+        </g>
+        <g>
+            <path stroke-width="2" stroke="#3b3b3b" fill="none" d="M2624 360h50"/>
+            <g>
+                <path d="M2661.5 366.902v-13.804l12.468 6.902-12.468 6.902z" fill="#3b3b3b"/>
+                <path d="M2672.935 360L2662 353.947v12.106l10.935-6.053m2.065 0l-14 7.75v-15.5l14 7.75z" fill="#3b3b3b"/>
+            </g>
+        </g>
+        <g>
+            <path stroke-width="2" stroke="#3b3b3b" fill="none" d="M2624 673h50"/>
+            <g>
+                <path d="M2661.5 679.902v-13.804l12.468 6.902-12.468 6.902z" fill="#3b3b3b"/>
+                <path d="M2672.935 673L2662 666.947v12.106l10.935-6.053m2.065 0l-14 7.75v-15.5l14 7.75z" fill="#3b3b3b"/>
+            </g>
+        </g>
+        <g>
+            <path stroke-width="2" stroke="#3b3b3b" fill="none" d="M2624 986h50"/>
+            <g>
+                <path d="M2661.5 992.902v-13.804l12.468 6.902-12.468 6.902z" fill="#3b3b3b"/>
+                <path d="M2672.935 986L2662 979.947v12.106l10.935-6.053m2.065 0l-14 7.75v-15.5l14 7.75z" fill="#3b3b3b"/>
+            </g>
+        </g>
+        <g>
+            <path stroke-width="2" stroke="#3b3b3b" fill="none" d="M2872 360h45"/>
+            <g>
+                <path d="M2904.5 366.902v-13.804l12.468 6.902-12.468 6.902z" fill="#3b3b3b"/>
+                <path d="M2915.935 360L2905 353.947v12.106l10.935-6.053m2.065 0l-14 7.75v-15.5l14 7.75z" fill="#3b3b3b"/>
+            </g>
+        </g>
+        <g>
+            <path stroke-width="2" stroke="#3b3b3b" fill="none" d="M2872 673h45"/>
+            <g>
+                <path d="M2904.5 679.902v-13.804l12.468 6.902-12.468 6.902z" fill="#3b3b3b"/>
+                <path d="M2915.935 673L2905 666.947v12.106l10.935-6.053m2.065 0l-14 7.75v-15.5l14 7.75z" fill="#3b3b3b"/>
+            </g>
+        </g>
+        <g>
+            <path stroke-width="2" stroke="#3b3b3b" fill="none" d="M2872 986h45"/>
+            <g>
+                <path d="M2904.5 992.902v-13.804l12.468 6.902-12.468 6.902z" fill="#3b3b3b"/>
+                <path d="M2915.935 986L2905 979.947v12.106l10.935-6.053m2.065 0l-14 7.75v-15.5l14 7.75z" fill="#3b3b3b"/>
+            </g>
+        </g>
+        <g>
+            <path stroke-width="2" stroke="#3b3b3b" fill="none" d="M3115 986h45"/>
+            <g>
+                <path d="M3147.5 992.902v-13.804l12.468 6.902-12.468 6.902z" fill="#3b3b3b"/>
+                <path d="M3158.935 986L3148 979.947v12.106l10.935-6.053m2.065 0l-14 7.75v-15.5l14 7.75z" fill="#3b3b3b"/>
+            </g>
+        </g>
+        <g>
+            <path stroke-width="2" stroke="#3b3b3b" fill="none" d="M3115 360h61"/>
+            <g>
+                <path d="M3163.5 366.902v-13.804l12.468 6.902-12.468 6.902z" fill="#3b3b3b"/>
+                <path d="M3174.935 360L3164 353.947v12.106l10.935-6.053m2.065 0l-14 7.75v-15.5l14 7.75z" fill="#3b3b3b"/>
+            </g>
+        </g>
+        <g>
+            <path stroke-width="2" stroke="#3b3b3b" fill="none" d="M3115 673h50"/>
+            <g>
+                <path d="M3152.5 679.902v-13.804l12.468 6.902-12.468 6.902z" fill="#3b3b3b"/>
+                <path d="M3163.935 673L3153 666.947v12.106l10.935-6.053m2.065 0l-14 7.75v-15.5l14 7.75z" fill="#3b3b3b"/>
+            </g>
+        </g>
+        <g>
+            <path stroke-width="2" stroke="#3b3b3b" fill="none" d="M3363 673h35"/>
+            <g>
+                <path d="M3385.5 679.902v-13.804l12.468 6.902-12.468 6.902z" fill="#3b3b3b"/>
+                <path d="M3396.935 673L3386 666.947v12.106l10.935-6.053m2.065 0l-14 7.75v-15.5l14 7.75z" fill="#3b3b3b"/>
+            </g>
+        </g>
+        <g>
+            <path stroke-width="2" stroke="#3b3b3b" fill="none" d="M3358 986h35"/>
+            <g>
+                <path d="M3380.5 992.902v-13.804l12.468 6.902-12.468 6.902z" fill="#3b3b3b"/>
+                <path d="M3391.935 986L3381 979.947v12.106l10.935-6.053m2.065 0l-14 7.75v-15.5l14 7.75z" fill="#3b3b3b"/>
+            </g>
+        </g>
+        <g>
+            <path stroke-width="2" stroke="#3b3b3b" fill="none" d="M3596 673h35"/>
+            <g>
+                <path d="M3618.5 679.902v-13.804l12.468 6.902-12.468 6.902z" fill="#3b3b3b"/>
+                <path d="M3629.935 673L3619 666.947v12.106l10.935-6.053m2.065 0l-14 7.75v-15.5l14 7.75z" fill="#3b3b3b"/>
+            </g>
+        </g>
+        <g>
+            <path stroke-width="2" stroke="#3b3b3b" fill="none" d="M3829 673h35"/>
+            <g>
+                <path d="M3851.5 679.902v-13.804l12.468 6.902-12.468 6.902z" fill="#3b3b3b"/>
+                <path d="M3862.935 673L3852 666.947v12.106l10.935-6.053m2.065 0l-14 7.75v-15.5l14 7.75z" fill="#3b3b3b"/>
+            </g>
+        </g>
+        <g>
+            <path stroke-width="2" stroke="#3b3b3b" fill="none" d="M4062 673h35"/>
+            <g>
+                <path d="M4084.5 679.902v-13.804l12.468 6.902-12.468 6.902z" fill="#3b3b3b"/>
+                <path d="M4095.935 673L4085 666.947v12.106l10.935-6.053m2.065 0l-14 7.75v-15.5l14 7.75z" fill="#3b3b3b"/>
+            </g>
+        </g>
+        <text font-weight="700" font-family="Helvetica-Bold, Helvetica" font-size="24" fill="#3b3b3b" transform="translate(2303 539)">
+            <tspan y="0" x="-124.277">Task: Take full course</tspan><tspan y="29" x="-56.01">on simple</tspan>
+        </text>
+        <text font-weight="700" font-family="Helvetica-Bold, Helvetica" font-size="24" fill="#3b3b3b" transform="translate(2179 852)">
+            <tspan y="0" x="0">Task: Edit water</tspan><tspan y="29" x="0"> footprint answers</tspan>
+        </text>
+        <text font-weight="700" font-family="Helvetica-Bold, Helvetica" font-size="24" fill="#3b3b3b" transform="translate(2268 255)">
+            <tspan y="0" x="-88.682">Task: Add habit</tspan>
+        </text>
+    </g>
+</svg>

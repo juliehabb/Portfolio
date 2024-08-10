@@ -18,6 +18,8 @@
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,900;1,300;1,400;1,500;1,600;1,700;1,900&family=Roboto:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap" rel="stylesheet">
+        <!-- JS -->
+        <script type="module" src="/js/filter.mjs" defer></script>
     
     </head>
 
@@ -31,7 +33,7 @@
                     <ul>
                         <li>
                             <a href="contribution.html">About Me</a>
-                            <a class="link-contactus" href="contact-us.html">CONTACT ME</a>
+                            <a class="link-contactus" href="contact-us.html">Contact Me</a>
                         </li>
                     </ul>
                 </nav>
@@ -42,8 +44,12 @@
             <section class="section-aboutme">
                 <div class="wrapper-aboutme">
                     <h6>Hello my name is ✨Julie Habbestad✨</h5>
-                    <h1>I’m a designer with a background in UX and 
-                        graphic design as well as concept art!</h1>
+                    <h1>I’m a front-end developer with a background <br> in UX and design</h1>
+                </div>
+                <div class="filter-buttons">
+                    <div class="button-main active" data-name="development" >Development</div>
+                    <div class="button-secondary" data-name="ux">UX</div>
+                    <div class="button-secondary" data-name="design">Design</div>
                 </div>
 
             </section>
@@ -53,19 +59,45 @@
                 <div class="wrapper-main section-upcomingevents-flex">
 
                     <div class="card-container">
-                        <a href="https://norofffeu.github.io/FED1-PE1-juliehabb/" class="vertical-card" >
+                        <a href="https://norofffeu.github.io/FED1-PE1-juliehabb/" class="vertical-card" data-name="development">
                             <img src="images/Screenshot 2024-06-05 093916.png" alt="Image of the eCommerce site.">
                             <div class="v-card-content">
-                                <h6 class="card-date">MAY 2024</h6>
                                 <h4 class="card-title">Art Blog</h4>
                                 <p>The owner of the blog can create an account and create and edit their own blog posts. Users can see and read the display of posts in a clean and user friendly manner.  </p>
                             </div>
                         </a>
-                        <a href="https://juliehabb.github.io/SemesterAssignment/" class="vertical-card" >
+                        <a href="https://juliehabb.github.io/SemesterAssignment/" class="vertical-card" data-name="development">
                             <img src="images/Screenshot 2024-06-05 135215.png" alt="Image of the eCommerce site.">
                             <div class="v-card-content">
-                                <h6 class="card-date">DECEMBER 2023</h6>
                                 <h4 class="card-title">Interactive Museum</h4>
+                                <p>I created a personal website for an interactive museum focusing on their brandinig and a clean and user friendly experience for the visitors. </p>
+                            </div>
+                        </a>
+                        <a href="https://juliehabb.github.io/SemesterAssignment/" class="vertical-card" data-name="ux">
+                            <img src="images/Orixe_Redesign.jpg" alt="Image of the eCommerce site.">
+                            <div class="v-card-content">
+                                <h4 class="card-title">Orixe Redesign</h4>
+                                <p>I created a personal website for an interactive museum focusing on their brandinig and a clean and user friendly experience for the visitors. </p>
+                            </div>
+                        </a>
+                        <a href="https://juliehabb.github.io/SemesterAssignment/" class="vertical-card" data-name="ux">
+                            <img src="images/BabyTime_Mockup.jpg" alt="Image of the eCommerce site.">
+                            <div class="v-card-content">
+                                <h4 class="card-title">Babytime</h4>
+                                <p>I created a personal website for an interactive museum focusing on their brandinig and a clean and user friendly experience for the visitors. </p>
+                            </div>
+                        </a>
+                        <a href="https://juliehabb.github.io/SemesterAssignment/" class="vertical-card" data-name="design">
+                            <img src="images/T&G Website.png" alt="Image of the eCommerce site.">
+                            <div class="v-card-content">
+                                <h4 class="card-title">T&G Website Redesign</h4>
+                                <p>I created a personal website for an interactive museum focusing on their brandinig and a clean and user friendly experience for the visitors. </p>
+                            </div>
+                        </a>
+                        <a href="https://juliehabb.github.io/SemesterAssignment/" class="vertical-card" data-name="design">
+                            <img src="images/Orixe_Campaign.png" alt="Image of the eCommerce site.">
+                            <div class="v-card-content">
+                                <h4 class="card-title">Orixe Campaign</h4>
                                 <p>I created a personal website for an interactive museum focusing on their brandinig and a clean and user friendly experience for the visitors. </p>
                             </div>
                         </a>

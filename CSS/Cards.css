@@ -11,7 +11,7 @@
 .vertical-card {
     transition-property: box-shadow;
     transition-duration: 0s;
-    width: 400px;
+    width: 500px;
     background-color: var(--card);
     border-radius: 4px;
     overflow: hidden;
@@ -41,16 +41,9 @@
     padding: 32px 24px;
 }
 
-.card-date {
-    color: #7D478A;
-    font-weight: 400;
-    padding: 0;
-    margin-bottom: 1rem;
-}
-
 .card-title {
     color: var(--black);
-    font-weight: 400;
+    font-weight: 600;
     margin-top: 0;
 }
 
@@ -61,4 +54,9 @@
 
 .button-card {
     margin-top: 2rem;
+}
+
+
+.vertical-card.hide {
+    display: none;
 }

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg data-bbox="0 0 515.52 221.99" viewBox="0 0 515.52 221.99" xmlns="http://www.w3.org/2000/svg" data-type="ugc">
+    <g>
+        <g>
+            <path fill="none" stroke="#c7c7c7" stroke-miterlimit="10" stroke-width=".5" d="M282.37 22.85v102.03"/>
+            <path fill="none" stroke="#c7c7c7" stroke-miterlimit="10" stroke-width=".5" d="M119.99 173.28v-12.17h75l-.06-24.8h13.47"/>
+            <path fill="none" stroke="#c7c7c7" stroke-miterlimit="10" stroke-width=".5" d="M119.99 161.11H69.8v12.17"/>
+            <path fill="none" stroke="#c7c7c7" stroke-miterlimit="10" stroke-width=".5" d="M169.62 161.11v12.17"/>
+            <path fill="none" stroke="#c7c7c7" stroke-miterlimit="10" stroke-width=".5" d="M281.3 147.73v25.55"/>
+            <path fill="none" stroke="#c7c7c7" stroke-miterlimit="10" stroke-width=".5" d="M232.05 173.28v-6.08h100.56v6.08"/>
+            <path fill="none" stroke="#c7c7c7" stroke-miterlimit="10" stroke-width=".5" d="M356.25 136.31h12.19l.18 24.2h123.76v12.77"/>
+            <path fill="none" stroke="#c7c7c7" stroke-miterlimit="10" stroke-width=".5" d="M442.24 173.28v-12.77"/>
+            <path fill="none" stroke="#c7c7c7" stroke-miterlimit="10" stroke-width=".5" d="M392.05 173.28v-12.77"/>
+            <path fill="none" stroke="#c7c7c7" stroke-miterlimit="10" stroke-width=".5" d="M456.74 91.24V87.2H73.65v4.04"/>
+            <path fill="none" stroke="#c7c7c7" stroke-miterlimit="10" stroke-width=".5" d="M456.74 114.09v5.81h25.92v4.98"/>
+            <path fill="none" stroke="#c7c7c7" stroke-miterlimit="10" stroke-width=".5" d="M430.57 124.88v-5.02l26.17.04"/>
+            <path fill="none" stroke="#c7c7c7" stroke-miterlimit="10" stroke-width=".5" d="M73.77 114.09v5.81h49.9v4.98"/>
+            <path fill="none" stroke="#c7c7c7" stroke-miterlimit="10" stroke-width=".5" d="M73.77 124.88v-4.98l-50.13-.04v5.02"/>
+            <path fill="none" stroke="#c7c7c7" stroke-miterlimit="10" stroke-width=".5" d="M308.96 136.3h-53.27"/>
+            <path fill="#86bbc9" opacity=".5" d="M306.02 3.68v15.49a3.68 3.68 0 0 1-3.68 3.68h-39.93a3.68 3.68 0 0 1-3.68-3.68V3.68A3.68 3.68 0 0 1 262.41 0h39.93a3.68 3.68 0 0 1 3.68 3.68z"/>
+            <text transform="translate(262.25 9.63)" font-size="6.62" fill="#2e2d2c" font-family="CenturyGothic-Bold,Century Gothic" font-weight="700">
+                Baby growth <tspan y="7.94" x="11.78">chart</tspan>
+            </text>
+            <path fill="#e7e6e6" d="M306.02 33.44v15.49a3.68 3.68 0 0 1-3.68 3.68h-39.93a3.68 3.68 0 0 1-3.68-3.68V33.44a3.68 3.68 0 0 1 3.68-3.68h39.93a3.68 3.68 0 0 1 3.68 3.68z"/>
+            <text transform="translate(262.45 43.12)" font-size="6.62" fill="#2e2d2c" font-family="CenturyGothic-Bold,Century Gothic" font-weight="700">
+                Chart view 1
+            </text>
+            <path fill="#e7e6e6" d="M306.02 63.21V78.7a3.68 3.68 0 0 1-3.68 3.68h-39.93a3.68 3.68 0 0 1-3.68-3.68V63.21a3.68 3.68 0 0 1 3.68-3.68h39.93a3.68 3.68 0 0 1 3.68 3.68z"/>
+            <text transform="translate(262.45 72.99)" font-size="6.62" fill="#2e2d2c" font-family="CenturyGothic-Bold,Century Gothic" font-weight="700">
+                Chart view 2
+            </text>
+            <path fill="#f2d65b" d="M97.29 94.92v15.49a3.68 3.68 0 0 1-3.68 3.68H53.68a3.68 3.68 0 0 1-3.68-3.68V94.92a3.68 3.68 0 0 1 3.68-3.68h39.93a3.68 3.68 0 0 1 3.68 3.68z"/>
+            <text transform="translate(58.56 103.92)" font-size="6.62" fill="#2e2d2c" font-family="CenturyGothic-Bold,Century Gothic" font-weight="700">
+                Calendar
+            </text>
+            <path fill="#f2d65b" d="M306.02 94.92v15.49a3.68 3.68 0 0 1-3.68 3.68h-39.93a3.68 3.68 0 0 1-3.68-3.68V94.92a3.68 3.68 0 0 1 3.68-3.68h39.93a3.68 3.68 0 0 1 3.68 3.68z"/>
+            <text transform="translate(271.72 100.39)" font-size="6.62" fill="#2e2d2c" font-family="CenturyGothic-Bold,Century Gothic" font-weight="700">
+                Stages <tspan y="7.94" x="-.6">advice</tspan>
+            </text>
+            <path fill="#cce4e4" d="M255.69 128.56v15.49a3.68 3.68 0 0 1-3.68 3.68h-39.93a3.68 3.68 0 0 1-3.68-3.68v-15.49a3.68 3.68 0 0 1 3.68-3.68h39.93a3.68 3.68 0 0 1 3.68 3.68z"/>
+            <text transform="translate(220.07 134.03)" font-size="6.62" fill="#2e2d2c" font-family="CenturyGothic-Bold,Century Gothic" font-weight="700">
+                Stage 1 <tspan y="7.94" x="-8.21">(0-2 months)</tspan>
+            </text>
+            <path fill="#cce4e4" d="M306.02 128.56v15.49a3.68 3.68 0 0 1-3.68 3.68h-39.93a3.68 3.68 0 0 1-3.68-3.68v-15.49a3.68 3.68 0 0 1 3.68-3.68h39.93a3.68 3.68 0 0 1 3.68 3.68z"/>
+            <text transform="translate(270.39 134.03)" font-size="6.62" fill="#2e2d2c" font-family="CenturyGothic-Bold,Century Gothic" font-weight="700">
+                Stage 2 <tspan y="7.94" x="-8.6">(2 mon.-1 yr)</tspan>
+            </text>
+            <path fill="#cce4e4" d="M356.25 128.56v15.49a3.68 3.68 0 0 1-3.68 3.68h-39.93a3.68 3.68 0 0 1-3.68-3.68v-15.49a3.68 3.68 0 0 1 3.68-3.68h39.93a3.68 3.68 0 0 1 3.68 3.68z"/>
+            <text transform="translate(320.63 134.03)" font-size="6.62" fill="#2e2d2c" font-family="CenturyGothic-Bold,Century Gothic" font-weight="700">
+                Stage 3 <tspan y="7.94" x="-.99">(1-4 yrs)</tspan>
+            </text>
+            <path fill="#86bbc9" opacity=".5" d="M143.63 176.96v15.49a3.68 3.68 0 0 1-3.68 3.68h-39.93a3.68 3.68 0 0 1-3.68-3.68v-15.49a3.68 3.68 0 0 1 3.68-3.68h39.93a3.68 3.68 0 0 1 3.68 3.68z"/>
+            <text transform="translate(107.28 187.13)" font-size="6.62" fill="#2e2d2c" font-family="CenturyGothic-Bold,Century Gothic" font-weight="700">
+                Mothers
+            </text>
+            <path fill="#e7e6e6" d="M143.63 202.82v15.49a3.68 3.68 0 0 1-3.68 3.68h-39.93a3.68 3.68 0 0 1-3.68-3.68v-15.49a3.68 3.68 0 0 1 3.68-3.68h39.93a3.68 3.68 0 0 1 3.68 3.68z"/>
+            <text transform="translate(101.79 211.98)" font-size="6.62" fill="#2e2d2c" font-family="CenturyGothic-Bold,Century Gothic" font-weight="700">
+                Information
+            </text>
+            <path fill="#86bbc9" opacity=".5" d="M93.44 176.96v15.49a3.68 3.68 0 0 1-3.68 3.68H49.83a3.68 3.68 0 0 1-3.68-3.68v-15.49a3.68 3.68 0 0 1 3.68-3.68h39.93a3.68 3.68 0 0 1 3.68 3.68z"/>
+            <path fill="#86bbc9" opacity=".5" d="M193.27 176.96v15.49a3.68 3.68 0 0 1-3.68 3.68h-39.93a3.68 3.68 0 0 1-3.68-3.68v-15.49a3.68 3.68 0 0 1 3.68-3.68h39.93a3.68 3.68 0 0 1 3.68 3.68z"/>
+            <text transform="translate(156.91 187.13)" font-size="6.62" fill="#2e2d2c" font-family="CenturyGothic-Bold,Century Gothic" font-weight="700">
+                Partners
+            </text>
+            <path fill="#cce4e4" d="M47.29 128.56v15.49a3.68 3.68 0 0 1-3.68 3.68H3.68A3.68 3.68 0 0 1 0 144.05v-15.49a3.68 3.68 0 0 1 3.68-3.68h39.93a3.68 3.68 0 0 1 3.68 3.68z"/>
+            <text transform="translate(8.68 137.56)" font-size="6.62" fill="#2e2d2c" font-family="CenturyGothic-Bold,Century Gothic" font-weight="700">
+                Add note
+            </text>
+            <path fill="#cce4e4" d="M97.3 128.56v15.49a3.68 3.68 0 0 1-3.68 3.68H53.69a3.68 3.68 0 0 1-3.68-3.68v-15.49a3.68 3.68 0 0 1 3.68-3.68h39.93a3.68 3.68 0 0 1 3.68 3.68z"/>
+            <text transform="translate(67.97 134.05)" font-size="6.62" fill="#2e2d2c" font-family="CenturyGothic-Bold,Century Gothic" font-weight="700">
+                Edit <tspan y="7.94" x="-14.96">appointment</tspan>
+            </text>
+            <path fill="#cce4e4" d="M147.3 128.56v15.49a3.68 3.68 0 0 1-3.68 3.68h-39.93a3.68 3.68 0 0 1-3.68-3.68v-15.49a3.68 3.68 0 0 1 3.68-3.68h39.93a3.68 3.68 0 0 1 3.68 3.68z"/>
+            <text transform="translate(108.64 133.46)" font-size="6.62" fill="#2e2d2c" font-family="CenturyGothic-Bold,Century Gothic" font-weight="700">
+                Schedule<tspan y="7.94" x="-5.63">appointment</tspan>
+            </text>
+            <text transform="translate(55.23 187.02)" font-size="6.62" fill="#2e2d2c" font-family="CenturyGothic-Bold,Century Gothic" font-weight="700">
+                Newborn
+            </text>
+            <path fill="#86bbc9" opacity=".5" d="M306.02 176.96v15.49a3.68 3.68 0 0 1-3.68 3.68h-39.93a3.68 3.68 0 0 1-3.68-3.68v-15.49a3.68 3.68 0 0 1 3.68-3.68h39.93a3.68 3.68 0 0 1 3.68 3.68z"/>
+            <text transform="translate(269.67 187.13)" font-size="6.62" fill="#2e2d2c" font-family="CenturyGothic-Bold,Century Gothic" font-weight="700">
+                Mothers
+            </text>
+            <path fill="#e7e6e6" d="M306.02 202.82v15.49a3.68 3.68 0 0 1-3.68 3.68h-39.93a3.68 3.68 0 0 1-3.68-3.68v-15.49a3.68 3.68 0 0 1 3.68-3.68h39.93a3.68 3.68 0 0 1 3.68 3.68z"/>
+            <text transform="translate(264.17 211.98)" font-size="6.62" fill="#2e2d2c" font-family="CenturyGothic-Bold,Century Gothic" font-weight="700">
+                Information
+            </text>
+            <path fill="#86bbc9" opacity=".5" d="M255.69 176.96v15.49a3.68 3.68 0 0 1-3.68 3.68h-39.93a3.68 3.68 0 0 1-3.68-3.68v-15.49a3.68 3.68 0 0 1 3.68-3.68h39.93a3.68 3.68 0 0 1 3.68 3.68z"/>
+            <path fill="#86bbc9" opacity=".5" d="M356.25 176.96v15.49a3.68 3.68 0 0 1-3.68 3.68h-39.93a3.68 3.68 0 0 1-3.68-3.68v-15.49a3.68 3.68 0 0 1 3.68-3.68h39.93a3.68 3.68 0 0 1 3.68 3.68z"/>
+            <text transform="translate(319.9 187.13)" font-size="6.62" fill="#2e2d2c" font-family="CenturyGothic-Bold,Century Gothic" font-weight="700">
+                Partners
+            </text>
+            <text transform="translate(223.05 187.02)" font-size="6.62" fill="#2e2d2c" font-family="CenturyGothic-Bold,Century Gothic" font-weight="700">
+                Infant
+            </text>
+            <path fill="#86bbc9" opacity=".5" d="M465.89 176.96v15.49a3.68 3.68 0 0 1-3.68 3.68h-39.93a3.68 3.68 0 0 1-3.68-3.68v-15.49a3.68 3.68 0 0 1 3.68-3.68h39.93a3.68 3.68 0 0 1 3.68 3.68z"/>
+            <text transform="translate(429.53 187.13)" font-size="6.62" fill="#2e2d2c" font-family="CenturyGothic-Bold,Century Gothic" font-weight="700">
+                Mothers
+            </text>
+            <path fill="#e7e6e6" d="M465.89 202.82v15.49a3.68 3.68 0 0 1-3.68 3.68h-39.93a3.68 3.68 0 0 1-3.68-3.68v-15.49a3.68 3.68 0 0 1 3.68-3.68h39.93a3.68 3.68 0 0 1 3.68 3.68z"/>
+            <text transform="translate(424.04 211.98)" font-size="6.62" fill="#2e2d2c" font-family="CenturyGothic-Bold,Century Gothic" font-weight="700">
+                Information
+            </text>
+            <path fill="#86bbc9" opacity=".5" d="M415.7 176.96v15.49a3.68 3.68 0 0 1-3.68 3.68h-39.93a3.68 3.68 0 0 1-3.68-3.68v-15.49a3.68 3.68 0 0 1 3.68-3.68h39.93a3.68 3.68 0 0 1 3.68 3.68z"/>
+            <path fill="#86bbc9" opacity=".5" d="M515.52 176.96v15.49a3.68 3.68 0 0 1-3.68 3.68h-39.93a3.68 3.68 0 0 1-3.68-3.68v-15.49a3.68 3.68 0 0 1 3.68-3.68h39.93a3.68 3.68 0 0 1 3.68 3.68z"/>
+            <text transform="translate(479.17 187.13)" font-size="6.62" fill="#2e2d2c" font-family="CenturyGothic-Bold,Century Gothic" font-weight="700">
+                Partners
+            </text>
+            <text transform="translate(380.2 187.02)" font-size="6.62" fill="#2e2d2c" font-family="CenturyGothic-Bold,Century Gothic" font-weight="700">
+                Toddler
+            </text>
+            <path fill="#f2d65b" d="M480.14 94.92v15.49a3.68 3.68 0 0 1-3.68 3.68h-39.93a3.68 3.68 0 0 1-3.68-3.68V94.92a3.68 3.68 0 0 1 3.68-3.68h39.93a3.68 3.68 0 0 1 3.68 3.68z"/>
+            <text transform="translate(443.24 100.06)" font-size="6.62" fill="#2e2d2c" font-family="CenturyGothic-Bold,Century Gothic" font-weight="700">
+                Contact<tspan y="7.94" x="-6.22">professional</tspan>
+            </text>
+            <path fill="#cce4e4" d="M454.5 128.56v15.49a3.68 3.68 0 0 1-3.68 3.68h-39.93a3.68 3.68 0 0 1-3.68-3.68v-15.49a3.68 3.68 0 0 1 3.68-3.68h39.93a3.68 3.68 0 0 1 3.68 3.68z"/>
+            <text transform="translate(415.54 133.71)" font-size="6.62" fill="#2e2d2c" font-family="CenturyGothic-Bold,Century Gothic" font-weight="700">
+                Schedule <tspan y="7.94" x="-5.63">appointment</tspan>
+            </text>
+            <path fill="#cce4e4" d="M506.59 128.56v15.49a3.68 3.68 0 0 1-3.68 3.68h-39.93a3.68 3.68 0 0 1-3.68-3.68v-15.49a3.68 3.68 0 0 1 3.68-3.68h39.93a3.68 3.68 0 0 1 3.68 3.68z"/>
+            <text transform="translate(474.92 137.58)" font-size="6.62" fill="#2e2d2c" font-family="CenturyGothic-Bold,Century Gothic" font-weight="700">
+                Chat
+            </text>
+        </g>
+    </g>
+</svg>

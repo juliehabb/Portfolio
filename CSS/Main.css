@@ -24,6 +24,14 @@ body {
 
 main {
     padding-top: 5rem ;
+    padding-top: 2rem;
+    background-image: var(--gradient);
+    background-size: 400%;
+}
+
+@keyframes bg-animation {
+    0% {background-position: left;}
+    100%{background-position: right;}
 }
 
 .wrapper-main{
@@ -34,16 +42,17 @@ main {
 /*Colors*/
 
 :root {
-    --main-blue: #2b2b2b;
+    --main-color: #ffc27d;
+    --main-color-h: #f1b570;
     --card: #ffffff39;
-    --secondary-purple:#D688E9;
-    --secondary-purple-h: #c77bda;
+    --secondary-color:#F97EAD;
+    --secondary-color-h: #ef70a1;
     --secondary-blue: #d231c0;
     --secondary-blue-h: #27c0e2;
     --dark-purple: #9C3FB3;
     --light-purple: #E6B8F1;
     --black: #030303;
-    --gradient: linear-gradient(50deg, #F5BED3, #FCE1B0);
+    --gradient: linear-gradient(75deg, #F5BED3, #FCE1B0);
 }
 
 
@@ -91,7 +100,7 @@ h5 {
 h6 {
     font-size: 16px;
     line-height: 1.2;
-    font-weight: 700;
+    font-weight: 500;
 }
 
 p {
@@ -114,7 +123,7 @@ p {
 }
 
 .link-contactus-h {
-    border-bottom: 2.5px solid var(--dark-purple)
+    border-bottom: 2.5px solid var(--secondary-color)
 }
 
 summary {
@@ -140,36 +149,42 @@ img {
 .button-main{
     transition-property: background-color;
     transition-duration: 0.5s;
-    background-color: var(--secondary-purple);
+    background-color: var(--main-color);
     color: var(--black);
     padding: 16px;
     border: none;
-    border-radius: 2px;
+    border-radius: 0.2rem;
     font-family: 'roboto', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 16px;
     margin-right: 1rem;  
+    width: 10%;
+    text-align: center;
+    cursor: pointer;
 }
 
 
 .button-main:hover {
-    background-color: var(--secondary-purple-h);
+    background-color: var(--main-color-h);
 }
 
 .button-secondary{
     transition-property: background-color;
     transition-duration: 0.5s;
-    background-color: var(--secondary-blue);
+    background-color: var(--secondary-color);
     color: black;
     padding: 16px;
     border: none;
-    border-radius: 2px;
+    border-radius: 0.2rem;
     font-family: 'roboto', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 16px;
     margin-right: 1rem;  
+    width: 10%;
+    text-align: center;
+    cursor: pointer;
 }
 
 .button-secondary:hover{
-    background-color: var(--secondary-blue-h);
+    background-color: var(--secondary-color-h);
 }
 
 .button-main-wide {

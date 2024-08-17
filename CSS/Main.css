@@ -24,7 +24,6 @@ body {
 
 main {
     padding-top: 5rem ;
-    padding-top: 2rem;
     background-image: var(--gradient);
     background-size: 400%;
 }
@@ -35,8 +34,19 @@ main {
 }
 
 .wrapper-main{
-    width: 80%;
+    width: 60%;
     margin: 0 auto;
+}
+
+.colored {
+    background-color: #eb8ca99d;
+}
+.small-section {
+    padding: 5rem 0rem;
+}
+
+.first {
+    padding-top: 10rem;
 }
 
 /*Colors*/
@@ -66,14 +76,14 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 h1 {
-    font-size: 36px;
+    font-size: 3.8rem;
     line-height: 1.2;
     font-weight: 700;
 }
 
 h2 {
-    font-size: 28px;
-    font-weight: 700;
+    font-size: 3.2rem;
+    font-weight: 600;
     line-height: 1.2;
     margin-bottom: 8px;
     
@@ -99,13 +109,20 @@ h5 {
 
 h6 {
     font-size: 16px;
-    line-height: 1.2;
+    line-height: 1rem;
     font-weight: 500;
 }
 
 p {
     font-family: 'roboto', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 1.rem;
+    font-size: 1rem;
+    letter-spacing: 0.5px;
+    line-height: 1.5;
+}
+
+li {
+    font-family: 'roboto', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1rem;
     letter-spacing: 0.5px;
     line-height: 1.5;
 }
@@ -126,6 +143,19 @@ p {
     border-bottom: 2.5px solid var(--secondary-color)
 }
 
+.uppercase {
+    text-transform: uppercase;
+}
+
+.p-container {
+    width: 90%;
+}
+
+.context-text {
+    color: var(--secondary-color);
+    font-size: 14px ;
+}
+
 summary {
     font-family: 'poppins' , Verdana, Geneva, Tahoma, sans-serif;
     font-size: 28px;
@@ -142,6 +172,31 @@ img {
     height: auto; 
     display: block; 
     object-fit: cover;
+}
+
+
+.img-medium {
+    width:6rem;
+    height: 5.5rem;
+    object-fit: contain;
+}
+
+.img-medium-2 {
+    width: 65%;
+}
+
+.img-medium-3 {
+    width: 7rem;
+    height: 6.5rem;
+    object-fit: contain;
+}
+
+.img-fixed-size {
+    height: 17rem;
+
+    width: 10rem;
+
+
 }
 
 /* Buttons*/
@@ -258,3 +313,31 @@ table {
     font-weight: 700;
   }
 
+  /*Structure */
+
+  .div-horizontal {
+    display: flex;
+    
+  }
+
+  .centered {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .space-top {
+    padding-top: 1.5rem;
+}
+
+.padding-bottom {
+    padding-bottom: 1rem;
+}
+
+.padding-bottom-2 {
+    padding-bottom: 2rem;
+}
+
+.margin-bottom {
+    margin-bottom: 1rem;
+}

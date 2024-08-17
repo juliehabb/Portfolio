@@ -1,5 +1,108 @@
 @import url(Main.css);
 
-img {
+.cover-img {
     height: 35rem;
+}
+
+.container-projectinfo {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: repeat(3, 1fr);
+    gap: 1rem;
+    padding-top: 2rem; 
+}
+
+.container-info-left {
+    grid-row: 1 / 4; /* span two rows*/
+    grid-column: 1/2; /* first column*/
+}
+
+.container-info-right-1 {
+    grid-row: 1 / 2; /* first row*/
+    grid-column: 2/3; /* second column*/
+}
+
+.container-info-right-2 {
+    grid-row: 2 / 3; /* first row*/
+    grid-column: 2/3; /* second column*/
+}
+
+.container-info-right-3 {
+    grid-row: 3 / 4; /* first row*/
+    grid-column: 2/3; /* second column*/
+}
+
+
+.container-mp {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    gap: 1rem;
+    padding-top: 2rem; 
+}
+
+.insight-l-1 {
+    grid-row: 1/2;
+    grid-column: 1/2;
+}
+
+.insight-l-2 {
+    grid-row: 2/2;
+    grid-column: 1/2;
+
+}
+
+.insight {
+    width: 80%;
+    background-color: rgba(255, 255, 255, 0.822);
+    padding: 1rem;
+    border-radius: 0.5rem;
+    
+}
+
+.insight-small {
+    width: 20%;
+}
+
+.container-up {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+
+
+.custom-bullets {
+    list-style-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--!Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path fill="%23F97EAD" d="M256 512A256 256 0 1 0 256 0a256 256 0 1 0 0 512z"/></svg>');
+}
+
+.li-numb {
+    list-style: decimal;
+}
+
+.row {
+    display: flex;
+}
+
+.container-ut {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: repeat(3, 1fr);
+    gap: 1rem;
+}
+
+.container-ns {
+    display: flex;
+    gap: 1rem;
+}
+
+.box-next-step {
+    background-color: rgba(255, 255, 255, 0.822);
+    padding: 1rem;
+    border-radius: 0.5rem;
+}
+
+.container-process {
+    display: flex;
+    gap: 0.5rem;
 }

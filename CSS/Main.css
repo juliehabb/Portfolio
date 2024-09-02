@@ -55,13 +55,11 @@ main {
 :root {
     --main-color: #ffc27d;
     --main-color-h: #f1b570;
+    --main-color-a: #d3944b;
     --card: #ffffff39;
     --secondary-color:#F97EAD;
     --secondary-color-h: #ef70a1;
-    --secondary-blue: #d231c0;
-    --secondary-blue-h: #27c0e2;
-    --dark-purple: #9C3FB3;
-    --light-purple: #E6B8F1;
+    --secondary-color-a: #cb4478;
     --black: #030303;
     --gradient: linear-gradient(75deg, #F5BED3, #FCE1B0);
 }
@@ -80,6 +78,13 @@ h1 {
     font-size: 3.8rem;
     line-height: 1.2;
     font-weight: 700;
+}
+
+.h1-smaller {
+    font-size: 3.2rem;
+    font-weight: 600;
+    line-height: 1.2;
+    margin-bottom: 8px;
 }
 
 h2 {
@@ -223,6 +228,11 @@ img {
     cursor: pointer;
 }
 
+.button-main.active {
+    border: 2px solid var(--secondary-color-h);
+   
+}
+
 
 .button-main:hover {
     background-color: var(--main-color-h);
@@ -247,6 +257,10 @@ img {
 
 .button-secondary:hover{
     background-color: var(--secondary-color-h);
+}
+
+.button-secondary.active {
+    border: 2px solid var(--secondary-color-a);
 }
 
 .button-main-wide {

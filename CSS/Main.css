@@ -12,7 +12,7 @@ html {
 }
 
 body {
-    background-color: var(--background);
+    background-image: var(--gradient);
     height: 100%;
     min-height: 100vh;
     display: flex;
@@ -20,11 +20,12 @@ body {
     margin: 0;
     padding: 0;
     font-size: 100%;
+    overflow-x: hidden;
 }
 
 main {
     padding-top: 5rem ;
-    background-image: var(--gradient);
+    
     background-size: 400%;
 }
 
@@ -110,7 +111,7 @@ h5 {
 h6 {
     font-size: 16px;
     line-height: 1rem;
-    font-weight: 500;
+    font-weight: 600;
 }
 
 p {
@@ -189,6 +190,10 @@ img {
     width: 7rem;
     height: 6.5rem;
     object-fit: contain;
+}
+
+.img-medium-4 {
+    width: 30%;
 }
 
 .img-fixed-size {
@@ -317,13 +322,27 @@ table {
 
   .div-horizontal {
     display: flex;
-    
+  }
+
+  .div-horizontal-2 {
+    display: flex;
+    flex-direction: row;
   }
 
   .centered {
     display: flex;
     flex-direction: column;
     align-items: center;
+  }
+
+  .centered-middle {
+    display: flex;
+    align-items: center;
+  }
+
+  .centered-p {
+    display: flex;
+    justify-self: center;
   }
 
   .space-top {
@@ -338,6 +357,60 @@ table {
     padding-bottom: 2rem;
 }
 
+.padding-left {
+    padding-left: 2rem;
+}
+
 .margin-bottom {
     margin-bottom: 1rem;
 }
+
+.container-img {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.img-fit {
+    max-width: 50%;
+    height: auto;
+    object-fit: contain; 
+}
+
+.container-campaign-imgs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 3rem;
+}
+
+.img-fixed {
+    width: 30rem;
+    height: auto;
+    object-fit: contain;
+
+}
+
+.padding-img {
+    height: auto;
+    width: 22rem;
+}
+
+.container-aboutme {
+    display: flex;
+    align-items: center;
+
+}
+
+.container-aboutme-2 {
+    padding: 2rem;
+
+}
+
+.container-aboutme-1 {
+    padding: 2rem;
+
+}
+
+.section-like {
+    padding: 10rem 0;
+}
+

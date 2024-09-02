@@ -61,7 +61,7 @@
 }
 
 .insight-small {
-    width: 20%;
+    width: 25%;
 }
 
 .container-up {
@@ -104,5 +104,66 @@
 
 .container-process {
     display: flex;
-    gap: 0.5rem;
+    gap: 2rem;
+}
+
+.container-process-bubbles {
+    display: flex;
+    gap: 1rem;
+}
+
+.container-idea {
+    display: flex;
+    gap: 3rem;
+}
+
+.container-pd {
+    display: flex;
+    gap: 3rem;
+}
+
+.process-1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+@media (max-width: 850px) {
+    .container-process-bubbles {
+        flex-wrap: wrap;
+    }
+    
+    .container-ns {
+        flex-wrap: wrap;
+    }
+
+    .container-pd {
+        flex-wrap: wrap;
+        gap: 3rem;
+    }
+
+    .container-idea {
+        flex-wrap: wrap;
+        gap: 3rem;
+    }
+
+    .container-process {
+        flex-wrap: wrap;
+        gap: 3rem;
+    }
+
+    .container-ip {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 3rem;
+    }
+
+    .container-wrap {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+    }
+
 }

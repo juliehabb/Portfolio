@@ -22,3 +22,10 @@ const filterCards = e => {
 
 //add click event listener to each filter button
 filterButtons.forEach(div => div.addEventListener("click", filterCards));
+
+window.addEventListener("DOMContentLoaded", () => {
+    const defaultButton = document.querySelector('.filter-buttons div[data-name="development"]');
+    defaultButton.classList.add("active");
+    filterCards( {target: defaultButton});
+
+})

@@ -1,0 +1,44 @@
+@import url(Main.css);
+
+
+.section-aboutme {
+    padding: 0;
+}
+
+.container-aboutme {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10rem;
+}
+
+.container-aboutme-2 {
+    padding: 2rem;
+    align-content: center;
+}
+
+.p-aboutme {
+    width: 21rem;
+}
+
+.container-aboutme-1 {
+    padding: 2rem;
+}
+
+.section-like {
+    padding: 10rem 0 5rem 0;
+}
+
+.container-like {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.div-like {
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    width: 100%;
+    max-width: 25rem;
+}

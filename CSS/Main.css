@@ -217,7 +217,8 @@ img {
     font-family: 'roboto', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 16px;
     margin-right: 1rem;  
-    width: 10%;
+    width: 100%;
+    max-width: 12rem;
     text-align: center;
     cursor: pointer;
 }
@@ -238,7 +239,8 @@ img {
     font-family: 'roboto', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 16px;
     margin-right: 1rem;  
-    width: 10%;
+    width: 100%;
+    max-width: 10rem;
     text-align: center;
     cursor: pointer;
 }
@@ -394,23 +396,6 @@ table {
     width: 22rem;
 }
 
-.container-aboutme {
-    display: flex;
-    align-items: center;
 
-}
 
-.container-aboutme-2 {
-    padding: 2rem;
-
-}
-
-.container-aboutme-1 {
-    padding: 2rem;
-
-}
-
-.section-like {
-    padding: 10rem 0;
-}
 

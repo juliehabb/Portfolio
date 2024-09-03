@@ -1,5 +1,10 @@
 @import url(Main.css);
 
+
+.password-protect {
+    display: none;
+}
+
 .cover-img {
     height: 35rem;
 }

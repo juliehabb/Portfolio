@@ -128,6 +128,9 @@
     align-items: center;
 }
 
+.p-problem {
+    width: 70%;
+}
 
 @media (max-width: 850px) {
     .container-process-bubbles {

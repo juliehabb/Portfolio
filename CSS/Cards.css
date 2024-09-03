@@ -6,13 +6,14 @@
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: auto;
     gap: 2rem;
+    max-width: calc(2 * 35rem + 2rem); /* Max width considering the card width and gap */
 }
 
 .vertical-card {
     transition-property: box-shadow;
     transition-duration: 0s;
-    width: 100%; /* Cards take full width of the grid cell */
-    max-width: 450px; /* Prevent cards from exceeding this width */
+    width: 100%;
+    max-width: 40rem;
     background-color: var(--card);
     border-radius: 4px;
     overflow: hidden;

@@ -3,7 +3,7 @@
             function passwordProtect() {
                 var password = prompt("Enter the password to view this page:");
 
-                if (password === "Password321") {
+                if (password === "Password321" || "Legion9080!") {
                     var protectedContent = document.querySelector(".password-protect");
 
                     if (protectedContent) {

@@ -32,4 +32,12 @@
 }
 
 
+@media (min-width: 1800px) {
+    
+    .section-upcomingevents-flex {
+        padding: 7% 6% 10% 20%;
+    }
+
+}
+
 

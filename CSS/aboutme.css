@@ -41,8 +41,9 @@
     align-self: center;
     width: 100%;
     max-width: 25rem;
+    padding-bottom: 1.5rem;
 }
 
 .p-l {
-    padding-left: 1rem;
+    padding-left: 2rem;
 }

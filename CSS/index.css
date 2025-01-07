@@ -5,7 +5,7 @@
 .section-aboutme {
     display: flex;
     flex-direction: column;
-    justify-self: center;
+   
     padding: 15% 10% 0% 20%;
 }
 
@@ -29,6 +29,11 @@
 
 .h2-myprojects {
     padding-bottom: 2rem;
+}
+
+.light {
+    color: rgb(53, 53, 53);
+    font-weight: 400;
 }
 
 @media (min-width: 1800px) {

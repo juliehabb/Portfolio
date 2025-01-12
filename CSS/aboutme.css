@@ -2,14 +2,14 @@
 
 
 .section-aboutme {
-    padding: 0;
+    padding: 10rem 0 5rem 0;
 }
 
 .container-aboutme {
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 10rem;
+    flex-wrap: wrap;
 }
 
 .container-aboutme-2 {

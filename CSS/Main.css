@@ -13,6 +13,8 @@ html {
 
 body {
     background-image: var(--gradient);
+    background-size: cover;
+    background-position: center;
     height: 100%;
     min-height: 100vh;
     display: flex;
@@ -26,7 +28,6 @@ body {
 main {
     padding-top: 5rem ;
     
-    background-size: 400%;
 }
 
 @keyframes bg-animation {
@@ -35,8 +36,9 @@ main {
 }
 
 .wrapper-main{
-    width: 60%;
+    max-width: 60%;
     margin: 0 auto;
+    width: 100%;
 }
 
 .colored {
@@ -49,6 +51,8 @@ main {
 .first {
     padding-top: 10rem;
 }
+
+
 
 /*Colors*/
 
@@ -171,10 +175,39 @@ summary {
     color: var(--main-blue);
 }
 
+@media (max-width: 700px) {
+    h1 {
+        font-size: 2rem;
+        line-height: 1.2;
+        font-weight: 700;
+    }
+    
+    .h1-smaller {
+        font-size: 1.8rem;
+        font-weight: 600;
+        line-height: 1.2;
+        margin-bottom: 8px;
+    }
+    
+    h2 {
+        font-size: 2rem;
+        font-weight: 600;
+        line-height: 1.2;
+        margin-bottom: 8px;
+        
+    }
+    
+    h3 {
+        font-size: 20px;
+        font-weight: 700;
+        line-height: 1.2;
+    }
+}
+
 /*Image*/
 
 img {
-    width: 100%; 
+    max-width: 100%; 
     height: auto; 
     display: block; 
     object-fit: cover;
@@ -182,28 +215,33 @@ img {
 
 
 .img-medium {
-    width:6rem;
+    max-width:6rem;
     height: 5.5rem;
     object-fit: contain;
 }
 
 .img-medium-2 {
-    width: 65%;
+    max-width: 65%;
 }
 
 .img-medium-3 {
-    width: 7rem;
+    max-width: 7rem;
     height: 6.5rem;
     object-fit: contain;
 }
 
 .img-medium-4 {
-    width: 30%;
+    max-width: 30%;
+}
+
+.img-large {
+    max-width: 20rem;
+    height: auto;
 }
 
 .img-fixed-size {
     height: 17rem;
-    width: 10rem;
+    max-width: 10rem;
 }
 
 
@@ -219,8 +257,6 @@ img {
     border-radius: 0.2rem;
     font-family: 'roboto', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 16px;
-    margin-right: 1rem;  
-    width: 100%;
     max-width: 12rem;
     text-align: center;
     cursor: pointer;
@@ -228,7 +264,6 @@ img {
 
 .button-main.active {
     border: 2px solid var(--secondary-color-h);
-   
 }
 
 
@@ -246,8 +281,6 @@ img {
     border-radius: 0.2rem;
     font-family: 'roboto', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 16px;
-    margin-right: 1rem;  
-    width: 100%;
     max-width: 10rem;
     text-align: center;
     cursor: pointer;
@@ -271,7 +304,7 @@ img {
     border-radius: 2px;
     font-family: 'roboto', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 16px;
-    width: 360px;
+    max-width: 360px;
     margin-top: 1rem;
     text-align: center;
 }
@@ -375,7 +408,7 @@ img {
 
 .padding-img {
     height: auto;
-    width: 22rem;
+    max-width: 22rem;
 }
 
 

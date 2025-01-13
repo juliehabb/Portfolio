@@ -1,3 +1,5 @@
+@import url(Main.css);
+
 nav {
     display: flex;
     align-items: center;
@@ -24,6 +26,10 @@ a {
     color: black;
 }
 
+a:hover {
+    color: var( --secondary-color-h)
+}
+
 
 @media (max-width: 680px) {
     nav {
@@ -34,14 +40,13 @@ a {
         padding: 0;
     }
 
-
     .nav-container {
         display: flex;
         width: 100%;
         justify-content: space-between;
         align-items: center;
+        
     }
-
 
     .nav-links {
         display: none;
@@ -49,13 +54,17 @@ a {
         width: 100%;
         background-color: var(--input-box);
         padding: 0.6rem;
-        
+        background-color: bisque;
+        align-items: center;
+        justify-content: center;
+       
     }
 
     .nav-links.active {
        display: block;
        
     }
+
     .logo {
         padding: 1rem;
     }
@@ -63,5 +72,6 @@ a {
     .nav-bars {
         display: flex;
         padding-right: 0.5rem;
+        
     }
 }

@@ -18,23 +18,26 @@
         <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,900;1,300;1,400;1,500;1,600;1,700;1,900&family=Roboto:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap" rel="stylesheet">
         <!-- JS -->
         <script type="module" src="js/passwordProtect.mjs"></script>
+        <script type="module" src="./js/nav.mjs" ></script>
+        
     
     </head>
 
     <body>
         <header>
-            <section class="section-navigation">
-                <input type="checkbox" id="menu-checkbox">
-                <label for="menu-checkbox" class="hamburger-icon"><i class="fas fa-bars"></i></label>
-                <a href="index.html" > <p class="logo">Julie Habbestad</p></a>
-                <nav> 
-                    <ul>
-                        <li>
-                            <a href="about-me.html">About Me</a>
-                        </li>
-                    </ul>
-                </nav>
-            </section>
+            <nav>
+                <div class="nav-container">
+                    <a href="./index.html">
+                        <p class="logo">Julie Habbestad</p>
+                    </a>
+                    <div class="nav-bars" id="navBars">
+                        <i class="fa-solid fa-bars"></i>
+                    </div>
+                </div>
+                <ul class="nav-links" id="navLinks">
+                    <li><a class="login-link" href="about-me.html">About me</a></li>
+                </ul>
+            </nav>
         </header>
 
         <main class="password-protect">

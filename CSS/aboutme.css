@@ -3,6 +3,8 @@
 
 .section-aboutme {
     padding: 10rem 0 5rem 0;
+    align-items: center;
+    justify-content: center;
 }
 
 .container-aboutme {
@@ -15,14 +17,20 @@
 .container-aboutme-2 {
     padding: 2rem;
     align-content: center;
+    justify-content: center;
 }
 
 .p-aboutme {
-    width: 21rem;
+    max-width: 100%;
+    max-width: 22rem;
+    align-items: center;
+    justify-content: center;
 }
 
 .container-aboutme-1 {
     padding: 2rem;
+    align-items: center;
+    justify-content: center;
 }
 
 .section-like {

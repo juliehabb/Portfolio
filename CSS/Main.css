@@ -244,6 +244,13 @@ img {
     max-width: 10rem;
 }
 
+@media (max-width: 768px) { 
+    .img-large {
+        max-width: 100%; 
+        width: auto; 
+    }
+}
+
 
 /* Buttons*/
 

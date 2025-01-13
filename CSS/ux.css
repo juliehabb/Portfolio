@@ -7,6 +7,7 @@
 
 .cover-img {
     height: 35rem;
+    width: 100%;
 }
 
 .container-projectinfo {
@@ -62,11 +63,14 @@
     background-color: rgba(255, 255, 255, 0.822);
     padding: 1rem;
     border-radius: 0.5rem;
+    box-sizing: border-box; 
     
 }
 
 .insight-small {
     width: 25%;
+    min-width: 10rem;
+    text-align: center; 
 }
 
 .container-up {
@@ -86,6 +90,7 @@
 .row {
     display: flex;
 }
+
 
 .container-ut-i {
     display: grid;
@@ -135,7 +140,26 @@
     width: 70%;
 }
 
-@media (max-width: 850px) {
+
+
+@media (max-width: 768px) {
+
+    .container-projectinfo {
+        display: grid;
+        grid-template-columns: 1fr; 
+        grid-template-rows: auto;
+        gap: 1rem;
+    }
+
+    .container-info-right-1,
+    .container-info-right-2,
+    .container-info-right-3 {
+        grid-row: auto; 
+        grid-column: auto; 
+        width: 100%; 
+     
+    }
+
     .container-process-bubbles {
         flex-wrap: wrap;
     }

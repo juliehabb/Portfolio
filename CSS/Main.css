@@ -247,6 +247,10 @@ img {
         max-width: 100%; 
         width: auto; 
     }
+
+    .img-medium-2 {
+        max-width: 100%;
+    }
 }
 
 /* Buttons*/
@@ -415,6 +419,13 @@ img {
     max-width: 22rem;
 }
 
+@media (max-width: 768px) { 
+    .wrap {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 1rem;
+    }
+}
 
 
 

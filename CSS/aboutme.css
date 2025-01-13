@@ -55,3 +55,7 @@
 .p-l {
     padding-left: 2rem;
 }
+
+.rounded {
+    border-radius: 1rem;
+}

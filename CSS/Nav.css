@@ -22,12 +22,46 @@ nav {
     gap: 1rem;
 }
 
-a {
-    color: black;
+nav li {
+    list-style: none;
 }
 
-a:hover {
-    color: var( --secondary-color-h)
+
+
+nav a {
+    position: relative;
+    color: black;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-family: 'poppins' , Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    font-weight: 500; 
+}
+
+
+nav a:before {
+    content: '';
+    position: absolute;
+    bottom: -3px;
+    height: 2.5px;
+    width: 0;
+    left: 0;
+    background: var(--main-color-h);
+    border-radius: 50px;
+    transition: width 0.3s ease;
+}
+
+nav a:hover:before {
+    width: 100%;
+}
+
+.nav-highlight-page:before {
+    height: 0px;
+}
+
+
+nav a .link-contactus-h::before {
+    background: var(--secondary-color);
 }
 
 

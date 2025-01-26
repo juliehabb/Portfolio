@@ -5,8 +5,7 @@
 .section-aboutme {
     display: flex;
     flex-direction: column;
-   
-    padding: 15% 10% 0% 20%;
+    padding: 10% 10% 0% 20%;
 }
 
 .wrapper-aboutme {

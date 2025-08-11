@@ -21,6 +21,7 @@
         <!-- JS -->
         <script type="module" src="js/filter.mjs"></script>
         <script type="module" src="./js/nav.mjs" ></script>
+        <script type="module" src="./js/typeAnimation.mjs" ></script>
     
     </head>
 
@@ -44,7 +45,11 @@
             <section class="section-aboutme">
                 <div class="wrapper-aboutme">
                     <h6>Hello, my name is ✨Julie Habbestad✨</h6>
-                    <h1>I'm bringing ideas to life through <br> design and technology.</h1>
+                    <h1>I'm bringing ideas to life <br> through 
+                    <span class="animated-text-wrap">
+                        <span id="animated-text-word">technology</span> <span class="cursor" aria-hidden="true" ></span>
+                    </span>
+                    </h1>
                 </div>
                 <div class="filter-buttons">
                     <div class="button active" data-name="development">Development</div>

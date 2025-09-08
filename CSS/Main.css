@@ -64,6 +64,7 @@ main {
     --main-color: #ffc27d;
     --main-color-h: #f1b570;
     --main-color-a: #d3944b;
+    --main-color-font: #5C1E1E;
     --card: #ffffff39;
     --secondary-color:#F97EAD;
     --secondary-color-h: #ef70a1;
@@ -77,8 +78,9 @@ main {
 
 h1,h2,h3,h4,h5,h6 {
     font-family: 'poppins' , Verdana, Geneva, Tahoma, sans-serif;
-    color: var(--main-blue);
+    color: var(--main-color-font);
     font-weight: 00;
+    text-transform: uppercase;
     
 }
 
@@ -133,6 +135,13 @@ p {
     font-size: 1rem;
     letter-spacing: 0.5px;
     line-height: 1.5;
+    color: var(--main-color-font);
+}
+
+ul {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5;
 }
 
 li {
@@ -140,6 +149,7 @@ li {
     font-size: 1rem;
     letter-spacing: 0.5px;
     line-height: 1.5;
+    color: var(--main-color-font);
 }
 
 .p-bold {
@@ -289,7 +299,7 @@ img {
     transition-property: background-color;
     transition-duration: 0.5s;
     background-color: var(--secondary-color);
-    color: var(--black);
+    color: var(--main-color-font);
     padding: 16px;
     border: none;
     border-radius: 0.2rem;
@@ -298,11 +308,13 @@ img {
     max-width: 12rem;
     text-align: center;
     cursor: pointer;
+    text-transform: uppercase;
 }
 
 .button.active {
     border: 2px solid var(--secondary-color-h);
-    background-color: var(--main-color);
+    background-color: var(--main-color-font);
+    color: #FCE1B0;
 }
 
 .button-main:hover {

@@ -9,4 +9,9 @@ footer {
     align-content: center;
     flex-direction: column;
     margin-top: auto;
+    text-transform: uppercase;
+}
+
+footer p {
+    font-weight: 600;
 }

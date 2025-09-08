@@ -6,6 +6,14 @@
     display: flex;
     flex-direction: column;
     padding: 5% 10% 0% 20%;
+    min-height: 80vh;
+    box-sizing: border-box;
+}
+
+.section-buttons {
+    display: flex;
+    flex-direction: column;
+    padding: 0 0 0% 20%;
 }
 
 .section-projects {

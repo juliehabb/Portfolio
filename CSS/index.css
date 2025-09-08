@@ -2,6 +2,9 @@
 
 /*General*/
 
+h1 {
+    color: var(--main-color-font);
+}
 .section-header {
     display: flex;
     flex-direction: column;

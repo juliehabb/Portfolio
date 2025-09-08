@@ -34,7 +34,7 @@
 
 
 .section-upcomingevents-flex {
-    padding: 7% 0 0% 0;
+    padding: 7% 0 2% 0;
 }
 
 .h2-myprojects {
@@ -48,7 +48,7 @@
 
 @media (min-width: 1800px) {
     .section-upcomingevents-flex {
-        padding: 7% 6% 10% 20%;
+        padding: 7% 6% 2% 20%;
     }
 
 }
